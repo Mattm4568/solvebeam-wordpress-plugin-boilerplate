@@ -13,7 +13,7 @@
 	],
 	"mappings": {
 		"wp-content/plugins/solvebeam-boilerplate-dev": "./",
-		"wp-content/plugins/solvebeam-boilerplate": "./build/stage-2/"
+		"wp-content/plugins/solvebeam-boilerplate": "./build/solvebeam-boilerplate/"
 	},
 	"testsEnvironment": false
 }
